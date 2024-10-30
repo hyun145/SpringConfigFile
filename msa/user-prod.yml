@@ -34,7 +34,7 @@ spring:
     driver-class-name: org.mariadb.jdbc.Driver
     password: '1234'
     username: root
-    url: jdbc:mariadb://svc.sel4.cloudtype.app:31934/study
+    url: jdbc:mariadb://svc.sel4.cloudtype.app:32467/study
   application:
     name: USER-SERVICE
   boot:
