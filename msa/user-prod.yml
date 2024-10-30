@@ -33,7 +33,7 @@ spring:
       driver-class-name: org.mariadb.jdbc.Driver
       url: jdbc:mariadb://svc.sel4.cloudtype.app:32467/myDB
       username: poly
-      password: 1234
+      password: "1234"
     application:
       name: USER-SERVICE
 
